@@ -23,7 +23,7 @@ A modern, offline-first QR code generator and scanner built with React, TypeScri
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mabdulqadirhamza/qr-craft-offline.git
 cd qr-craft-offline
 ```
 
